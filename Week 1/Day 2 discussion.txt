@@ -1,0 +1,12 @@
+Different kinds of Analysis you can do with data
+1. Descriptive Analysis
+	Statistical Analysis - Mean, Median, Mode, Std. Deviation, Variance
+	Mean should be avoided in case of Outliers (we use Median in this case)
+2. Exploratory Analysis - Finding patterns between different datasets or variables
+3. Inferential Analysis - 
+4. Predictive Analysis - On basis of Independent variables we determine behaviour of Dependent variables
+5. Causal Analysis
+
+
+
+Q: Whats is good criticial Random number should you choose as a Sample for any Study ?
